@@ -19,6 +19,8 @@ I'm a Full Stack Data Scientist...
 3. Machine Learning
 4. Deep Learning
 5. Data Science
+6. Computer Vision
+7. NLP
 
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=biltudey&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
