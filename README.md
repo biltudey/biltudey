@@ -25,6 +25,7 @@ I'm a Full Stack Data Scientist...
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=biltudey&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
+![Logo](https://github-readme-streak-stats.herokuapp.com/?user=biltudey&&theme=radical&hide_border=true&border_radius=5)
 
 
 
