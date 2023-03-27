@@ -2,9 +2,6 @@
 # Hi, I'm Biltu! 👋
 
 
-## 🚀 About Me
-I'm a Full Stack Data Scientist...
-
 
 ## 🔗 Links
 
