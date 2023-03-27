@@ -12,12 +12,15 @@
 
 ## 🛠 Skills
 1. Python
-2. SQL
-3. Machine Learning
-4. Deep Learning
-5. Data Science
-6. Computer Vision
-7. NLP
+2. HTML
+3. CSS
+4. Javascript
+5. SQL
+6. Machine Learning
+7. Deep Learning
+8. Data Science
+9. Computer Vision
+10. NLP
 
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=biltudey&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
